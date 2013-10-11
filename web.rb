@@ -1,6 +1,6 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, SaaS world"
+  "<b>Hello, SaaS world</b>"
 end
 
